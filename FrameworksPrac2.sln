@@ -1,0 +1,22 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrameworksPrac2", "FrameworksPrac2\FrameworksPrac2.csproj", "{2EBC334B-B9DB-4186-89E9-BF602F3F2AD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrameworksPrac2.Tests", "FrameworksPrac2.Tests\FrameworksPrac2.Tests.csproj", "{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EBC334B-B9DB-4186-89E9-BF602F3F2AD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EBC334B-B9DB-4186-89E9-BF602F3F2AD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EBC334B-B9DB-4186-89E9-BF602F3F2AD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EBC334B-B9DB-4186-89E9-BF602F3F2AD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
